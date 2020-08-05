@@ -3,7 +3,7 @@ import React from 'react';
 
 import PageHeader from '../../components/PageHeader';
 import TeacherItem from '../../components/TeacherItem';
-import Input from '../../components/input';
+import Input from '../../components/Input';
 
 import './styles.css';
 
