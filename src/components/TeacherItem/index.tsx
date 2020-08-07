@@ -12,11 +12,11 @@ export interface Teacher {
     avatar: string,
     whatsapp: string,
     bio: string
-}
+};
 
 interface TeacherItemProps {
     teacher: Teacher;
-}
+};
 
 const TeacherItem: React.FC<TeacherItemProps> = ( {teacher} ) => {
 
